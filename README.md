@@ -5,6 +5,7 @@
 - Просмотр сборки - npm run preview
 - Использовать линтер - npm run lint
 - Деплой на gh-pages - npm run deploy
+- Протестировать - npm run test
 
 # React + TypeScript + Vite
 
